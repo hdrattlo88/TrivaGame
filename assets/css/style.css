@@ -1,0 +1,32 @@
+.game{
+    background-color: lightskyblue;
+}
+.title{
+    background-color: white;
+    font-family: fantasy;
+    font-size: 48px;
+    text-align: center;
+    
+}
+h1{
+    margin-left: 20%;
+    padding-left: 20%;
+}
+.btn  {
+    width: 100%; 
+    font-family: cursive;
+}
+
+h2 {
+    text-align: center;
+    background-color: rgb(190, 137, 240);
+    
+}
+h3{
+    background-color: green;
+}
+#show-question{
+    text-align: center;
+    font-family: fantasy;
+    font-size: larger;
+}
