@@ -12,7 +12,7 @@
                 question: "The Red Wings are located in Detroit, MI.",  
                 answer: [77, 4], //HAD TO CHANGE VALUE BC TRUE/FALSE WAS NOT WORKING CORRECT WITH ON CLICK 
                 correct: 77,
-                image: 'assets/images/detroit.jpg',
+                image: 'assets/images/logo.png',
                 sound: ("")
             },
 
